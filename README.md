@@ -61,4 +61,4 @@ Upload Your Seismic Data: Upload your MiniSEED file (.mseed), and you’re ready
 
 # Team Astro Boys
 
-![App Screenshot](https://github.com/OmarMDiab/NASA-SPACE-APPS-CHALLENGE-2024/blob/main/img/team.png)
+![App Screenshot](https://github.com/OmarMDiab/NASA-SPACE-APPS-CHALLENGE-2024/blob/main/img/team.jpg)
