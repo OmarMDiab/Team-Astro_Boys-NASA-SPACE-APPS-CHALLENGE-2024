@@ -58,7 +58,3 @@ Upload Your Seismic Data: Upload your MiniSEED file (.mseed), and you’re ready
 
 - **Languages & Libraries:** Python, Streamlit, NumPy, SciPy, ObsPy, Plotly, scikit-learn
 - **Data Format:** MiniSEED (.mseed) files
-
-# Team Astro Boys
-
-![App Screenshot](https://github.com/OmarMDiab/NASA-SPACE-APPS-CHALLENGE-2024/blob/main/img/team.jpg)
